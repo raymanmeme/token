@@ -3,6 +3,10 @@
     "image": "https://raw.githubusercontent.com/raymanmeme/token/refs/heads/main/rayman.png",
     "symbol": "RAY",
     "description": "$RAYMAN emerges as more than a token — we’re the digital embodiment of the heroic Rayman spirit, breaking through the barriers of traditional cryptocurrency.",
+    "creator": {
+        "name": "Rayman",
+        "site": "https://rayman.meme"
+    },
     "extensions": {
         "website": "https://rayman.meme",
         "twitter": "https://x.com/raymanmeme?s=21&t=Zl3RdLNC41LwrxYzyEM7jg",
